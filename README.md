@@ -1,6 +1,5 @@
-### Hi there Iam bethwel Rono, a Web developer👋
-
-
+### Hi👋 Iam bethwel Rono, a full stack developer
+With Python, Django , React js, Angular js and wordpress as my Major
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bethwelmusin&theme=radical)
