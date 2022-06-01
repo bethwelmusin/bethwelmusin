@@ -1,8 +1,11 @@
-### Hi👋 Iam bethwel Rono, a full stack developer
-With Python, Django , React js, Angular js and wordpress as my Major
+### Hi👋 Iam bethwel Rono, a full stack developer With Python, Django , React js, Angular js and wordpress as my Major
+
+📫 How to reach me: all social media platforms as "bethwelmusin", or gmail: betwelmusin@gmail.com
+🌱 I’m currently learning Android development and AWS
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bethwelmusin&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bethwelmusin&theme=synthwave)
 
 <!--
 **bethwelmusin/bethwelmusin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,11 +13,11 @@ With Python, Django , React js, Angular js and wordpress as my Major
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
