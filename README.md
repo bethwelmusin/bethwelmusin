@@ -1,4 +1,4 @@
-### Hi👋 Iam bethwel Rono, a full stack developer With Python, Django , React js, Angular js and wordpress as my Major
+### Hi👋 Iam bethwel Rono, a full stack developer With Python, Django , React js and wordpress as my Major
 
 ###📫 How to reach me: all social media platforms as "bethwelmusin", or gmail: betwelmusin@gmail.com
 
